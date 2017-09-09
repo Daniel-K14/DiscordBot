@@ -1,1 +1,2 @@
 # DiscordBot
+PUBG Stats Bot
